@@ -3,6 +3,7 @@ INNODEV PROJECT- workout tracker website
 Team Name: Team Duo
 Team Members Name: 1. Neha kumari (https://github.com/Neha09V)   
                    2. Payal Akhirwar( https://github.com/PayalAhirwar)
+                   
 Proposed Features:
 
  a) Allow users to create accounts and set up profiles with personal information such as age ,weight,height fitness goals etc.
@@ -17,6 +18,7 @@ Proposed Features:
  and motivation.
  b) AI- POWERED Recommendations: Use AI algorithms to suggest personalized workout plans and exercises based on user data.
  c) Integration with Wearable devices and Health Apps.
+
 
  Tech Stack 
  a) html ,css, javascript
